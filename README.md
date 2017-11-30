@@ -2,8 +2,8 @@
 Get your AliExpress purchase history from the web browser in the form of CSV files
 ## How to run it
 1. Go to your **AliExpress Orders** page https://trade.aliexpress.com/orderList.htm
-2. Pop up developer console (**F12**)
-3. Copypaste the script
+2. Pop up developer console (**F12**), open Console tab
+3. Copypaste the [script](https://raw.githubusercontent.com/igorzhilin/AliExpressAnalytics_QuickNDurty/master/AliExpressAnalytics_QuickNDurty.js)
 4. Run it, it will automatically download a txt file. Confirm the file save. The page will switch to the next page.
 5. Repeat step **4** until the pages are over
 ## What it does
